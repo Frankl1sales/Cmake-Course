@@ -11,4 +11,4 @@ project(CppProjectTemplate VERSION 1.0.0 LANGUAGES C CXX)
 
 #          User defined name
 #                  v
-add_executable(Executable main.cc)
+add_executable(Executable main.cc) g
