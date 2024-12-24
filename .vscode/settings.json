@@ -215,5 +215,6 @@
     "C_Cpp_Runner.showCompilationTime": false,
     "C_Cpp_Runner.useLinkTimeOptimization": false,
     "C_Cpp_Runner.msvcSecureNoWarnings": false,
-    "C_Cpp_Runner.msvcBatchPath": ""
+    "C_Cpp_Runner.msvcBatchPath": "",
+    "cmake.sourceDirectory": "/media/frank/URUBUTURBO/UDEMY/UdemyCmake/2_CMake/03_IntermediateProject"
 }
