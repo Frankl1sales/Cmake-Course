@@ -9,6 +9,5 @@ cmake_minimum_required(VERSION 3.22)
 
 project(CppProjectTemplate VERSION 1.0.0 LANGUAGES C CXX)
 
-#          User defined name
-#                  v
-add_executable(Executable main.cc) g
+
+add_executable(Executable main.cc)
