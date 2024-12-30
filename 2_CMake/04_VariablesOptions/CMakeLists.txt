@@ -9,7 +9,7 @@ set(CMAKE_CXX_EXTENSIONS        OFF)
 set(LIBRARY_NAME Library)
 set(EXECUTABLE_NAME Executable)
 
-option(COMPILE_EXECUTABLE "Whether to compile the executable" ON)
+option(COMPILE_EXECUTABLE "Whether to compile the executable" OFF)
 
 add_subdirectory(src)
 if (COMPILE_EXECUTABLE)
